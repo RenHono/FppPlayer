@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FppPlayer</string>
+    <string name="exit_app">再点一次退出~~</string>
+    <string name="navigation_music">音乐列表</string>
+    <string name="navigation_video">视频列表</string>
+    <string name="navigation_url">连接访问</string>
+    <string name="navigation_about">说明</string>
+    <string name="network_error">网络异常</string>
+    <string name="xinxi">信息</string>
+    <string name="btn_play">点击播放</string>
+</resources>
